@@ -1,0 +1,1 @@
+<h4 class='error'>There was a problem converting that certificate. It may be corrupt or it may be in a different format than the one you selected (or the private key may not match). You can try using a different format or running the OpenSSL commands on your own machine.</h4> <a href="javascript:history.back(-1);" >Go back</a>
